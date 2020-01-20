@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LogInApplication</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+
+    <string name="login">LogIn</string>
+    <string name="reg">reg</string>
+    <string name="pass">pass</string>
+</resources>
